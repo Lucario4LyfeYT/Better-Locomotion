@@ -35,11 +35,17 @@ https://vrchat.com/home/avatar/avtr_bfb69f2a-567a-4b13-a839-d7aa75e01b5f
 
 Changelog:
 1:	Fixed going from pose to idle animation using the previous idle animation when you reset locomotion
+
 2:	Added lock pose button to lock your pose, this only works on poses, you cannot lock your idle position
+
 3:	Changed the stand still in the idle animation's menu from a toggle to a button, doesn't change anything important, just keeps it consistent with everything else
+
 4:	Added buttons to slowly increase/decrease your height rather than just using the radial to do it, you still have the radial
+
 5:	Completely overhauled all of the pose menu's, it looks and feels much better
+
 6:	Shamelessly stole some icons from GogoLoco and used them in the pose menu (I'm a menace I know)
+
 7:	Changed the stand still idle as the old one acted weird with its left leg for some reason
 
 Known bugs:
