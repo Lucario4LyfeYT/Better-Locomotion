@@ -34,6 +34,7 @@ I will now be allowing anyone to switch into my Better Locomotion testing bot so
 https://vrchat.com/home/avatar/avtr_bfb69f2a-567a-4b13-a839-d7aa75e01b5f
 
 Changelog:
+
 1:	Fixed going from pose to idle animation using the previous idle animation when you reset locomotion
 
 2:	Added lock pose button to lock your pose, this only works on poses, you cannot lock your idle position
